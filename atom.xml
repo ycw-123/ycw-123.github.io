@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ycw-123.github.io</id>
     <title>ycw的博客</title>
-    <updated>2022-03-06T09:01:20.282Z</updated>
+    <updated>2022-03-11T12:29:20.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ycw-123.github.io"/>
     <link rel="self" href="https://ycw-123.github.io/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://ycw-123.github.io/images/avatar.png</logo>
     <icon>https://ycw-123.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, ycw的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[我的由来]]></title>
+        <id>https://ycw-123.github.io/post/wo-de-you-lai</id>
+        <link href="https://ycw-123.github.io/post/wo-de-you-lai">
+        </link>
+        <updated>2022-03-11T12:07:07.000Z</updated>
+        <content type="html"><![CDATA[<p>一直以来，我的主人都很不满意洛谷博客的主题，上一周他更是发现同机房的小伙伴竟然有更加美观的主题，于是他下定决心也要弄一个好看的主题。回想起之前他仍然有过这种想法，并且当时他尝试自己搭建美观的博客但是并未成功，于是他又重拾起他建博客的任务。</p>
+<p>3月6日，经历了一番长久的努力之后，我诞生了。但与此同时我的主人也发现原来洛谷博客有个改主题的设置……</p>
+<p>3月11日，他想既然把我搭建了出来，就不能浪费，他决定用这个博客来存一些文化课或者日常生活中的一些内容，就当个笔记本用吧。</p>
+<figure data-type="image" tabindex="1"><img src="https://ycw-123.github.io/post-images/1647001674915.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://ycw-123.github.io/post/hello-gridea</id>

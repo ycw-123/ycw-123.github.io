@@ -5,7 +5,7 @@
 <meta name="description" content="" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>
-    ycw的博客
+    我的由来 | ycw的博客
 </title>
 <link rel="shortcut icon" href="https://ycw-123.github.io/favicon.ico?v=1647001700114">
 <!-- <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous"> -->
@@ -19,6 +19,7 @@
 <script src="https://cdn.bootcss.com/moment.js/2.23.0/moment.min.js"></script>
 
 
+        
 </head>
 
 <body>
@@ -93,59 +94,81 @@
     });
 </script>
 
-            
-
-    <div class="archives-container main-container">
-        <ul class="timeline">
-            
-                <li>
-                    <h3 class="year">
-                        2022
-                    </h3>
-                    <ul class="year-wrapper">
+            <div id="main-content" class="post-detail main-container">
+                <!-- left -->
+                <div id="content" class="main-container-left">
+                    <article class="post i-card">
+                        <h2 class="post-title">
+                            我的由来
+                        </h2>
+                        <div class="post-info">
+                            <time class="post-time">2022-03-11</time>
+                            
+                        </div>
                         
-                            
-                                <li>
-                                    <span class="date">2022-03-11</span>
-                                    <a class="title" href="https://ycw-123.github.io/post/wo-de-you-lai">
-                                        <span>我的由来</span>
-                                    </a>
-                                </li>
-                                
-                                    
-                            
-                                    
-                    </ul>
+                                <div class="post-content">
+                                    <p>一直以来，我的主人都很不满意洛谷博客的主题，上一周他更是发现同机房的小伙伴竟然有更加美观的主题，于是他下定决心也要弄一个好看的主题。回想起之前他仍然有过这种想法，并且当时他尝试自己搭建美观的博客但是并未成功，于是他又重拾起他建博客的任务。</p>
+<p>3月6日，经历了一番长久的努力之后，我诞生了。但与此同时我的主人也发现原来洛谷博客有个改主题的设置……</p>
+<p>3月11日，他想既然把我搭建了出来，就不能浪费，他决定用这个博客来存一些文化课或者日常生活中的一些内容，就当个笔记本用吧。</p>
+<figure data-type="image" tabindex="1"><img src="https://ycw-123.github.io/post-images/1647001674915.jpg" alt="" loading="lazy"></figure>
 
-                </li>
-                
-                <li>
-                    <h3 class="year">
-                        2018
-                    </h3>
-                    <ul class="year-wrapper">
+                                </div>
+                    </article>
+                    <!--  -->
+                    
+                        <div class="next-post">
+                            <div class="next">下一篇</div>
+                            <a href="https://ycw-123.github.io/post/hello-gridea">
+                                <h3 class="post-title">
+                                    Hello Gridea
+                                </h3>
+                            </a>
+                        </div>
                         
-                            
-                                    
-                            
-                                <li>
-                                    <span class="date">2018-12-12</span>
-                                    <a class="title" href="https://ycw-123.github.io/post/hello-gridea">
-                                        <span>Hello Gridea</span>
-                                    </a>
-                                </li>
+                            <div id="disqus_thread"></div>
+                            <div id="gitalk-container"></div>
+                </div>
+                <!-- middle -->
+                <div class="main-container-middle"></div>
+                <!-- right -->
+                <div id="sidebar" class="main-container-right">
+                    
+                                <!-- id-card -->
                                 
+    <div class="id_card i-card">
+        <div class="id_card-avatar" style="background-image: url(https://ycw-123.github.io/images/avatar.png?v=1647001700114)">
+        </div>
+        <h1 class="id_card-title">
+            ycw的博客
+        </h1>
+        <h2 class="id_card-description">
+            ycw的博客
+        </h2>
+        <!--  -->
+        <div class="id_card-sns">
+            <!-- github -->
+            
+                    <!-- twitter -->
+                    
+                            <!-- weibo -->
+                            
+                                    <!-- facebook -->
                                     
-                    </ul>
 
-                </li>
-                
-        </ul>
+        </div>
     </div>
+    
+                                    
 
-                
+                </div>
 
-                    <div class="site-footer">
+
+
+
+            </div>
+
+
+            <div class="site-footer">
   Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | 
   <a class="rss" href="https://ycw-123.github.io/atom.xml" target="_blank">RSS</a>
 </div>
@@ -154,7 +177,15 @@
   hljs.initHighlightingOnLoad()
 </script>
 
+
     </div>
+    <script>
+        $('#sidebar').stickySidebar({
+            topSpacing: 80,
+            // bottomSpacing: 60
+        });
+    </script>
+    
 </body>
 
 </html>
