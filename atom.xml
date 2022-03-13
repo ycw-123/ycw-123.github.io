@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ycw-123.github.io</id>
     <title>ycw的博客</title>
-    <updated>2022-03-11T12:49:49.566Z</updated>
+    <updated>2022-03-13T07:45:46.297Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ycw-123.github.io"/>
     <link rel="self" href="https://ycw-123.github.io/atom.xml"/>
@@ -10,6 +10,21 @@
     <logo>https://ycw-123.github.io/images/avatar.png</logo>
     <icon>https://ycw-123.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, ycw的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[3.12记]]></title>
+        <id>https://ycw-123.github.io/post/312-ji</id>
+        <link href="https://ycw-123.github.io/post/312-ji">
+        </link>
+        <updated>2022-03-12T15:24:00.000Z</updated>
+        <content type="html"><![CDATA[<p>我检讨，竟第一时间没有反应过来今天是lzt的生日😥还得他本人提醒。</p>
+<p>不过这恰恰说明他在我心里的分量并不算特别重，至少我还是把自己放在第一位的，这倒是值得庆幸的。</p>
+<p>今天培优一半请假去看了腿的问题，结果是足外翻扁平足惹的祸。</p>
+<p>与妈妈聊了许多心里的想法，倒是让我觉得有些放松和释然的感觉。</p>
+<p>其实我还是蛮抗拒耽误学习的，但腿的问题又确实很困扰我。</p>
+<p>听了陈阳的近况，让我觉得有了一丝慰藉，至少我还足够幸运。</p>
+<p>还有就是今天真正听明白了初步CDQ分治，不容易啊~</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我的由来]]></title>
         <id>https://ycw-123.github.io/post/wo-de-you-lai</id>
